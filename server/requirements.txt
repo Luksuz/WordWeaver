@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langchain-anthropic
+neo4j
+supabase
